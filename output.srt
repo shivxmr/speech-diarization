@@ -1,0 +1,76 @@
+1
+0,00,000 --> 0,00,279
+[SPEAKER 1] Excuse me. Excuse me. Sorry. Do you speak English?
+
+2
+0,00,759 --> 0,00,599
+[SPEAKER 2] No, I don't. Sorry.
+
+3
+0,00,140 --> 0,00,339
+[SPEAKER 1] Oh. My car's broken down and I wondered if you could tell me where to find a garage.
+
+4
+0,00,260 --> 0,00,500
+[SPEAKER 2] Well, you know, that's wasted on me. I don't understand what you're saying.
+
+5
+0,00,740 --> 0,00,059
+[SPEAKER 1] You don't speak any English at all?
+
+6
+0,00,160 --> 0,00,799
+[SPEAKER 2] Not a word, no. It's one of those things where I wish I paid more attention in school. But, um... Excuse me. Excuse me. Sorry. Do you speak any English? English? No. What's the problem? I don't know. I can't understand it.
+
+7
+0,00,960 --> 0,00,379
+[SPEAKER 1] Hi. My car's broken down and I need to find a garage.
+
+8
+0,00,359 --> 0,00,820
+[SPEAKER 1] No. I'm sorry. I didn't understand that at all.
+
+9
+0,00,659 --> 0,00,519
+[SPEAKER 1] All right. Well, thanks.
+
+10
+0,00,299 --> 0,00,780
+[SPEAKER 2] Tell you what, if you go down that way, about half a mile, there's a village. There might be somebody there that speaks English.
+
+11
+0,00,780 --> 0,00,359
+[SPEAKER 1] Ich spreche ein bisschen Deutsch. Specken Sie Deutsch?
+
+12
+0,00,100 --> 0,00,740
+[SPEAKER 2] Deutsch? Nein.
+
+13
+0,00,879 --> 0,01,659
+[SPEAKER 1] Sprechst du Deutsch? Deutsch? Nein. No, nein. Zwei Wörter, aber ich bin nicht fließend.
+
+14
+0,01,500 --> 0,01,719
+[SPEAKER 2] I'm sorry if I didn't help.
+
+15
+0,01,939 --> 0,01,680
+[SPEAKER 1] Yeah. Sorry about that. Hey, you never know. Next time you're over, maybe we'll have learned a bit of English for you. Ja, oder Deutsch vielleicht. Ja, das wäre toll. Thanks anyway.
+
+16
+0,01,060 --> 0,01,439
+[SPEAKER 2] I can speak English.
+
+17
+0,01,019 --> 0,01,579
+[SPEAKER 1] So can I.
+
+18
+0,01,540 --> 0,01,740
+[SPEAKER 1] I don't understand the rest of the conversation. You know, when we cut that off, you can go to conditioned, non-蓬 Först eta las caring. Ja, ich verstehe nbed foul forms. I wouldn't use those words.
+
+19
+0,01,040 --> 0,01,480
+[SPEAKER 1] I think my normal personality is always tone deaf.
+
